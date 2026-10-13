@@ -93,8 +93,6 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgvjhjkh&hide_border=true&background=3F0D12&ring=E53935&fire=E53935&currStreakLabel=F2A3A3&sideLabels=F2A3A3&currStreakNum=FDE8E8&sideNums=FDE8E8&dates=F2A3A3&locale=es" alt="Racha de contribuciones de GitHub"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cgvjhjkh&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
-</p>
+
 
 <p align="center"><em>Aprendiendo, construyendo y mejorando cada día.</em></p>
