@@ -84,11 +84,11 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 ## 📊 Estadísticas de GitHub
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeisongutierrez&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisongutierrez&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cgvjhjkh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgvjhjkh&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeisongutierrez&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgvjhjkh&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeisongutierrez&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
