@@ -26,7 +26,7 @@
 ---
 
 ## 💡 Perfil Profesional
-Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación en el diseño, implementación y mantenimiento de aplicaciones web full stack y soluciones de software a medida. Experiencia en arquitecturas frontend con React, HTML5, CSS3, JavaScript y Bootstrap, combinadas con lógica backend en Node.js (Express), PHP y Python. Dominio en el modelado, optimización y gestión de bases de datos relacionales (MySQL, PostgreSQL, MariaDB) y NoSQL (MongoDB, Supabase). Capacidad para liderar la arquitectura de requerimientos (SRS), optimizar procesos logísticos e inventarios e integrar control de versiones y automatización.
+Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación en el diseño, implementación y mantenimiento de aplicaciones web full stack y soluciones de software a medida. Experiencia en arquitecturas frontend con HTML5, CSS3, JavaScript y Bootstrap, combinadas con lógica backend en Node.js y PHP. Dominio en el modelado, optimización y gestión de bases de datos relacionales (MySQL, PostgreSQL, MariaDB) y Supabase. Capacidad para liderar la arquitectura de requerimientos (SRS), optimizar procesos logísticos e inventarios e integrar control de versiones y automatización.
 
 ---
 
@@ -55,7 +55,7 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 
 ## 🛠️ Habilidades (Skills)
 
-**Habilidades Duras (Hard Skills):** React, JavaScript, HTML5, CSS3, Bootstrap, Node.js (Express), PHP, Python, SQL, PL/pgSQL, modelado de bases de datos, levantamiento de requerimientos (SRS), Git y GitHub  
+**Habilidades Duras (Hard Skills):** JavaScript, HTML5, CSS3, Bootstrap, Node.js, PHP, SQL, PL/pgSQL, modelado de bases de datos, levantamiento de requerimientos (SRS), Git y GitHub  
 **Habilidades Blandas (Soft Skills):** Análisis técnico de requerimientos, resolución de problemas complejos, trabajo colaborativo, adaptabilidad tecnológica y pensamiento lógico  
 **Idiomas:**
   * Español: Nativo
@@ -72,23 +72,19 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 ## 🛠️ Stack Tecnológico y Herramientas
 
 ### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-B71C1C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B71C1C?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-B71C1C?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-B71C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-B71C1C?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Librerías Web
-![React](https://img.shields.io/badge/React-D32F2F?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-D32F2F?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-D32F2F?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-D32F2F?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B71C1C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-B71C1C?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-B71C1C?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-B71C1C?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-B71C1C?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Herramientas, Control de Versiones & Entornos
