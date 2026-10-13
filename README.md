@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="assets/banner.png" alt="Banner de Jeison Gutiérrez, desarrollador full stack" width="100%">
+  <img src="recursos/banner.png" alt="Banner de Jeison Gutiérrez, desarrollador full stack" width="100%">
 </div>
 
 <h1 align="center">JEISON ALFONSO GUTIÉRREZ VILLAMIL</h1>
