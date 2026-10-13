@@ -85,7 +85,6 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B71C1C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-B71C1C?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-B71C1C?style=for-the-badge&logo=mariadb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-B71C1C?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Herramientas, Control de Versiones & Entornos
 ![Git](https://img.shields.io/badge/Git-D32F2F?style=for-the-badge&logo=git&logoColor=white)
