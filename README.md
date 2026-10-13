@@ -22,7 +22,7 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 ### **Líder de Desarrollo Backend y Bases de Datos** — Proyecto Sistema de Logística y Entregas (Altavista)
 *Marzo 2026 – Presente* | *Medellín, Colombia*
 - Diseñé e implementé la arquitectura de base de datos relacional en PostgreSQL y MySQL, optimizando tiempos de consulta en un 25% mediante la creación de funciones almacenadas y vistas indexadas.
-- Desarrollé los módulos backend de gestión de inventario y trazabilidad de domicilios utilizando Node.js y Express, garantizando el control en tiempo real del stock para comercios locales.
+- Desarrollé los módulos backend de gestión de inventario y trazabilidad de domicilios utilizando Node.js , garantizando el control en tiempo real del stock para comercios locales.
 - Redacté las especificaciones técnicas y documentación de requerimientos del sistema (SRS) cumpliendo con los estándares de calidad del programa ADSO.
 
 ### **Desarrollador Web Full Stack** — Proyecto E-Commerce "NOVA SCHOOL"
