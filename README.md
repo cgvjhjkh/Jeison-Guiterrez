@@ -3,16 +3,7 @@
   <img src="assets/banner.png" alt="Banner de Jeison Gutiérrez, desarrollador full stack" width="100%">
 </div>
 
-<h1 align="center">JEISON ALFONSO GUTIÉRREZ VILLAMIL</h1>
 
-<h3 align="center">Desarrollador de Software Full Stack · Análisis y Desarrollo de Software (ADSO)</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-B71C1C?style=for-the-badge" alt="Medellín, Colombia">
-  <img src="https://img.shields.io/badge/SENA-ADSO_Ficha_3425707-D32F2F?style=for-the-badge" alt="SENA ADSO">
-  <a href="https://github.com/cgvjhjkh"><img src="https://img.shields.io/badge/GitHub-cgvjhjkh-3F0D12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/jeison-gutierrez"><img src="https://img.shields.io/badge/LinkedIn-jeison--gutierrez-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
 
 ---
 
