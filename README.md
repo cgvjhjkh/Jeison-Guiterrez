@@ -5,7 +5,7 @@ Desarrollador de Software Full Stack | Análisis y Desarrollo de Software (ADSO)
 
 ## 📞 Información de Contacto
 **Teléfono:** +57 320 584 2241  
-**Correo Electrónico:** jeisonalfonsogutierrezvillamil@gmail.com  
+**Correo Electrónico:** jeisonalfonsogutierrezvillasmi@gmail.com  
 **Ubicación:** Medellín, Colombia  
 **LinkedIn:** [linkedin.com/in/jeison-gutierrez](https://linkedin.com/in/jeison-gutierrez)  
 **Portafolio / GitHub:** [github.com/jeisongutierrez](https://github.com/jeisongutierrez)
